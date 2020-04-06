@@ -1,0 +1,7 @@
+Symbol lotu: UJR5T
+lotnisko: Katowice
+data lotu: 2019-1-9
+lista pasazerow:
+15 Natalia
+
+Liczba pasazerow w liscie: 1

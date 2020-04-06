@@ -1,0 +1,7 @@
+Symbol lotu: WR43S
+lotnisko: Warszawa
+data lotu: 2010-11-31
+lista pasazerow:
+41 Maro
+
+Liczba pasazerow w liscie: 1
